@@ -67,16 +67,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="classes.html" />
+    <Content Include="team.html" />
     <Content Include="contact.html" />
     <Content Include="index.html" />
-    <Content Include="products.html" />
+    <Content Include="Stylesheets\StyleSheet.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="classes.hrml" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -88,7 +89,6 @@
   <ItemGroup>
     <Folder Include="Images\" />
     <Folder Include="JavaScript\" />
-    <Folder Include="Stylesheets\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

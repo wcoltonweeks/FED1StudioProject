@@ -1,0 +1,80 @@
+﻿body{
+    background-color:black;
+}
+header{
+    background-color: black;
+    
+}
+h1{
+    display: inline-block;
+}
+main{
+    background-color: black;
+    color: white;
+}
+h2, h3 {
+    color: purple;
+    font-weight: bold;
+    background-color: black;
+    display: inline-block;
+}
+footer{
+    background-color: black;
+    font-style: italic;
+    color: grey;
+}
+a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none; 
+}
+a:hover, a:active, a:focus {
+    color: white;
+    text-decoration: underline;
+    background-color: darkred;
+}
+.asideList {
+    list-style: none;
+}
+/*nav styling*/
+nav a {
+    font-weight: bold;
+    color: darkred;
+}
+nav a:hover, nav a:active, nav a:focus {
+    text-decoration: none;
+}
+nav ul {
+    background-color: dimgray;
+    padding: 0;   
+}
+nav li:hover {
+    backgroundd-color: darkblue;
+}
+nav ul li {
+    display: inline-block;
+}
+nav ul li a {
+    padding: .4em 1em;
+    display: block;
+ }
+img{
+    display: block;
+}
+.logo{
+    display: inline;
+}
+.lead{
+    display: block;
+    background-color: black;
+    color: darkred;
+}
+html{
+    font-family: Arial, Helvetica, sans-serif
+}
+ dl a{
+     color:darkred;
+ }
+ dl a:hover{
+     text-decoration: none;
+ }
