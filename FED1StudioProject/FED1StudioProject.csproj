@@ -68,6 +68,29 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="classes.html" />
+    <Content Include="Images\133328484_437610940754763_964690907205811346_n.jpg" />
+    <Content Include="Images\2021-02-09.png" />
+    <Content Include="Images\31314483-7611c488-ac0e-11e7-97d1-3cfc1c79610e.png" />
+    <Content Include="Images\610-6104451_image-placeholder-png-user-profile-placeholder-image-png.jpg" />
+    <Content Include="Images\alena-jarrett-Zuvr--Dsy-M-unsplash.jpg" />
+    <Content Include="Images\cody-lannom-mgtTKAhjUZo-unsplash.jpg" />
+    <Content Include="Images\coltons drum shed Logo %281%29.png" />
+    <Content Include="Images\corey-oconnell-96ZgYoYTBVg-unsplash.jpg" />
+    <Content Include="Images\david-martin-dIdE2kS9Dds-unsplash.jpg" />
+    <Content Include="Images\edgar-chaparro-erjzPiFa_DY-unsplash.jpg" />
+    <Content Include="Images\elizeu-dias-29QO6oX3GlA-unsplash.jpg" />
+    <Content Include="Images\fabio-traina-46HSTy-xeYo-unsplash.jpg" />
+    <Content Include="Images\greg-weaver-NnWoLAqmxM4-unsplash.jpg" />
+    <Content Include="Images\istockphoto-1008665336-612x612.jpg" />
+    <Content Include="Images\josh-sorenson-MjIMc6uhwrE-unsplash.jpg" />
+    <Content Include="Images\marcelo-leal-zV02p9_MDr8-unsplash.jpg" />
+    <Content Include="Images\maxresdefault.jpg" />
+    <Content Include="Images\michael-m-KMiRulOk85w-unsplash.jpg" />
+    <Content Include="Images\nana-yaw-otoo-2hGZBayu_QY-unsplash.jpg" />
+    <Content Include="Images\photo-1571327073757-71d13c24de30.jfif" />
+    <Content Include="Images\rafael-vallaperde-lfsbr-0001-lfs-metaloctopus-mainimage1-2000px-1.jpg" />
+    <Content Include="Images\shawn-sim-9lfubBqLbRc-unsplash.jpg" />
+    <Content Include="Images\video-placeholder.png" />
     <Content Include="team.html" />
     <Content Include="contact.html" />
     <Content Include="index.html" />
@@ -87,7 +110,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Images\" />
     <Folder Include="JavaScript\" />
   </ItemGroup>
   <PropertyGroup>
